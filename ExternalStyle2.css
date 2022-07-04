@@ -64,36 +64,36 @@ nav ul {
 
 }
 
-	@media screen and (min-width: 768px) {
-		H1 {font-size: 50pt; text-align: center}
-		H2 {font-size: 20pt; text-align: center}
-		H3 {font-size: 10pt; text-align: center}
-		H4 {text-align: center}
-		H5 {font-size: 15pt}
+@media screen and (min-width: 768px) {
+	H1 {font-size: 50pt; text-align: center}
+	H2 {font-size: 20pt; text-align: center}
+	H3 {font-size: 10pt; text-align: center}
+	H4 {text-align: center}
+	H5 {font-size: 15pt}
+		}
+
+@media screen and (min-width:600px) {
+	H1 {font-size: 35pt; text-align: center}
+	H2 {font-size: 20pt; text-align: center}
+	H3 {font-size: 10pt; text-align: center}
+	H4 {text-align: center}
+	H5 {font-size: 15pt; text-align: center;}	
 	}
 
-	@media screen and (min-width:600px) {
-		H1 {font-size: 35pt; text-align: center}
-		H2 {font-size: 20pt; text-align: center}
-		H3 {font-size: 10pt; text-align: center}
-		H4 {text-align: center}
-		H5 {font-size: 15pt; text-align: center;}	
-	}
-
-	@media screen and (min-width: 480) {
-H1 {font-size: 35pt; text-align: center}
-H2 {font-size: 10pt; text-align: center}
-H3 {font-size: 10pt; text-align: center}
-H4 {text-align: center}
-H5 {font-size: 15pt}
+@media screen and (min-width: 480) {
+	H1 {font-size: 35pt; text-align: center}
+	H2 {font-size: 10pt; text-align: center}
+	H3 {font-size: 10pt; text-align: center}
+	H4 {text-align: center}
+	H5 {font-size: 15pt}
 	}
 
 @media screen and (min-width: 320px) {
-H1 {font-size: 25pt; text-align: center}
-H2 {font-size: 10pt; text-align: center}
-H3 {font-size: 20pt; text-align: center}
-H4 {text-align: center}
-H5 {font-size: 15pt}
-}
+	H1 {font-size: 25pt; text-align: center}
+	H2 {font-size: 10pt; text-align: center}
+	H3 {font-size: 20pt; text-align: center}
+	H4 {text-align: center}
+	H5 {font-size: 15pt}
+	}
 
 
